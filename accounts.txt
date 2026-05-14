@@ -1,0 +1,32 @@
+Smart Market - User Accounts
+
+==============================
+ADMIN ACCOUNT
+==============================
+Email: admin@smartmarket.com
+Password: admin123
+
+==============================
+MANAGER ACCOUNT  
+==============================
+Email: manager@smartmarket.com
+Password: manager123
+
+==============================
+CUSTOMER ACCOUNT
+==============================
+Email: customer@smartmarket.com
+Password: customer123
+
+==============================
+TEST CUSTOMER
+==============================
+Email: test@test.com
+Password: test123
+
+==============================
+Notes:
+- Admin: Full access to all admin features
+- Manager: Branch management access
+- Customer: Regular shopping cart and orders
+- All accounts are active and ready to use

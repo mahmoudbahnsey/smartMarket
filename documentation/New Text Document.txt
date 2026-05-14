@@ -1,0 +1,7 @@
+
+Account	Email	Password
+Admin	admin@smartmarket.com	Admin!1
+Manager	manager@smartmarket.com	Manager!1
+cairo Manager	cairo@smartmarket.com	Manager!1
+Alex Manager	alex@smartmarket.com	Manager!1
+Customer	customer@smartmarket.com	Customer!1
