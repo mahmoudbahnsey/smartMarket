@@ -137,4 +137,4 @@ The project follows the **MVC Architecture**:
 
 ## 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/SmartMarket.git
+git clone https://github.com/mahmoudbahnsey/SmartMarket.git
